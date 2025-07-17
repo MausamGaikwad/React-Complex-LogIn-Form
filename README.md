@@ -26,8 +26,10 @@ This is a simple and clean **React Login Form** that uses `useState` with an obj
    ```bash
    git clone https://github.com/your-username/react-complex-login-form.git
    cd react-complex-login-form
+
 2.Install dependencies
 npm install
+
 3.Run locally
 npm run dev
 
