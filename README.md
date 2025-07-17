@@ -28,11 +28,13 @@ This is a simple and clean **React Login Form** that uses `useState` with an obj
    cd react-complex-login-form
 
 2.Install dependencies
+```bash
 npm install
-
+```
 3.Run locally
+```bash
 npm run dev
-
+```
 🧠 Concepts Practiced
 * useState with object state
 
