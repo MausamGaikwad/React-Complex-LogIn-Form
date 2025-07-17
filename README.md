@@ -1,12 +1,41 @@
-# React + Vite
+# React Complex Login Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and clean **React Login Form** that uses `useState` with an object to manage multiple input fields efficiently. It is a beginner-friendly project for understanding form handling in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- Handles multiple inputs (First Name, Last Name, Email)
+- Uses a single `handleChange` function
+- Uses a single state object
+- Clean and modern design
+- Built with React + Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- CSS
+
+---
+
+## 💻 Setup Instructions
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/react-complex-login-form.git
+   cd react-complex-login-form
+2.Install dependencies
+npm install
+3.Run locally
+npm run dev
+
+🧠 Concepts Practiced
+* useState with object state
+
+* Form handling in React
+
+* Controlled components
+
+* Styling forms
